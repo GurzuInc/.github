@@ -1,3 +1,12 @@
+---
+name: New feature
+about: Create a new feature
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## 🌟 New Feature
 
 ### Overview

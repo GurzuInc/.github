@@ -1,6 +1,11 @@
-| Name         | About                                                    |
-| ------------ | -------------------------------------------------------- |
-| Pull request | Create a PR to merge changes for a bugfix or new feature |
+---
+name: Pull request
+about: Create a PR to merge changes for a bugfix or new feature
+title: ''
+labels: ''
+assignees: ''
+
+---
 
 ### Requirements for Merging
 

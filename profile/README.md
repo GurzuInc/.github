@@ -26,7 +26,12 @@ We are a diverse team of creatives, technologists, data scientists, security exp
 - DevOps and Cloud Engineering Services
 - Software development team
 
+## Important Links
+- [Home Page](https://gurzu.com) - Gurzu Official Website
+- [Gurzu Services](https://gurzu.com/services/) - Explore the services Gurzu offer
+- [Gurzu Portfolio](https://gurzu.com/success-stories/) - View Gurzu innovative Projects and Case Studies
+- [Gurzu Blog](https://gurzu.com/blog/) - Gain insights from Gurzu expert Engineers.
+
 ## Connect With US
-- Official Website: [gurzu.com](https://gurzu.com)
 - Business Email: <business@gurzu.com>
 - Career: <careers@gurzu.com>
